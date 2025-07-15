@@ -733,7 +733,7 @@ For deployment support:
 ---
 
 **Version**: 1.0.0-rc  
-**Last Updated**: December 19, 2024  
+**Last Updated**: July 15, 2025  
 **Tested Platforms**: Ubuntu 22.04, CentOS 8, AWS EC2, DigitalOcean
 
 ---

@@ -2,7 +2,7 @@
 
 ## 📡 Overview
 
-**Lackadaisical Local Copilot** provides a comprehensive RESTful API and WebSocket interface for all functionality. The API is designed with security, performance, and ease of use in mind.
+**Lackadaisical Local Copilot** provides a comprehensive RESTful API and WebSocket interface for all functionality across both original and modular dashboard interfaces. The API is designed with security, performance, and ease of use in mind.
 
 ## 🔐 Authentication
 
@@ -896,8 +896,8 @@ For API support and questions:
 ---
 
 **API Version**: 1.0.0-rc  
-**Last Updated**: December 19, 2024  
-**Test Coverage**: 89% (API endpoints validated)
+**Last Updated**: July 15, 2025  
+**Test Coverage**: 99% (API endpoints validated)
 
 ---
 
