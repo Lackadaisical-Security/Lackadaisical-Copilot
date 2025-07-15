@@ -1,7 +1,7 @@
 # 🌪️ Lackadaisical Local Copilot
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/user/lackadaisical-copilot)
-[![Built](https://img.shields.io/badge/built-December%2019%2C%202024-orange.svg)](https://github.com/user/lackadaisical-copilot)
+[![Built](https://img.shields.io/badge/built-July%2015%2C%202025-purple.svg)](https://github.com/user/lackadaisical-copilot)
 [![License](https://img.shields.io/badge/license-MIT%2BCommonsClause-green.svg)](./license.md)
 [![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![Security](https://img.shields.io/badge/security-AES--256--GCM-red.svg)](#security)
